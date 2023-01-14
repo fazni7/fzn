@@ -32,7 +32,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up with your edits.
+Read [this](https://telegram.dog/logeshbots) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -52,21 +52,6 @@ Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up wi
 * `SELF_DELETE_SECONDS`: Enter Seconds to be SELF_DELETE 
 * `START_TXT`: Enter Your Start Message
 * `ABOUT_TXT`: Enter Your About Message 
-
-
-## Deploy
-
-<details><summary>Deploy To VPS</summary>
-<p>
-<pre>
-git clone https://github.com/GreyMattersbot/url-auto-delete-shortener-bot
-# Install Packages
-pip3 install -U -r requirements.txt
-Edit info.py with variables as given below then run bot
-python3 bot.py
-</pre>
-</p>
-</details>
 
 
 ## Commands
