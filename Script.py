@@ -12,7 +12,10 @@ def is_enabled(value, default):
 
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/logeshbots')
-    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 Im Movie Search Bot I can share Movies and Series 😁.</b>
+    START_TXT = environ.get("START_TXT", '''<b> Hᴇʟʟᴏ Nᴀɴʙᴀ & Nᴀɴʙɪ ꜰᴀᴢɴɪ {} 👋
+Mʏ Nᴀᴍᴇ Is Tᴀᴍɪʟ Rᴏᴄᴋᴇʀꜱ Fɪʟᴛᴇʀ , I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs
+
+👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ : 🏴‍☠️.</b>
 
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
