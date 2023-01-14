@@ -43,7 +43,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Ajax_Files')
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', '-1001799864083'))
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'TamilRockerz_FZN')
 P_TTI_SHOW_OFF = is_enabled((environ.get('P_TTI_SHOW_OFF', "True")), True)
-IMDB = is_enabled((environ.get('IMDB', "False")), True)
+IMDB = is_enabled((environ.get('IMDB', "True")), True)
 SINGLE_BUTTON = is_enabled((environ.get('SINGLE_BUTTON', "True")), False)
 CUSTOM_FILE_CAPTION = environ.get("CUSTOM_FILE_CAPTION", "<code>{file_name}</code>\n\n<b>ᴊᴏɪɴ [@TamilRockerz_FZN](https://t.me/TamilRockerz_FZN) ꜰᴏʀ ᴍᴏʀᴇ ᴍᴏᴠɪᴇꜱ</b>\n\n<b>Pᴏᴡᴇʀᴇᴅ Bʏ @TamilRockerz_FZN</b>")
 BATCH_FILE_CAPTION = environ.get("BATCH_FILE_CAPTION", "<code>{file_name}</code>\n\n<b>ᴊᴏɪɴ [@TamilRockerz_FZN](https://t.me/TamilRockerz_FZN) ꜰᴏʀ ᴍᴏʀᴇ ᴍᴏᴠɪᴇꜱ</b>\n\n<b>Pᴏᴡᴇʀᴇᴅ Bʏ @TamilRockerz_FZN</b>")
@@ -81,11 +81,7 @@ if SELF_DELETE == "True":
     SELF_DELETE = True
 
     # Download Tutorial Button #
-DOWNLOAD_TEXT_NAME = "📥 HOW TO DOWNLOAD 📥"
+DOWNLOAD_TEXT_NAME = " HOW TO DOWNLOAD 🤔"
 DOWNLOAD_TEXT_URL = "https://t.me/DownloadDulink/7"
-
-   # Custom Caption Under Button #
-CAPTION_BUTTON = "⚚ 𝙍𝙚𝙦𝙪𝙚𝙨𝙩 𝙈𝙤𝙫𝙞𝙚𝙨 𝙃𝙚𝙧𝙚 ⚚"
-CAPTION_BUTTON_URL = "https://t.me/+PN59dOdJNNAxYzQ1"
 
    # Auto Delete For Bot Sending Files #
