@@ -43,7 +43,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://telegram.me/logeshbots')
+            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://telegram.me/TamilRockerz_FZN')
             ],[
             InlineKeyboardButton('⚚ 𝙍𝙚𝙦𝙪𝙚𝙨𝙩 𝙈𝙤𝙫𝙞𝙚𝙨 𝙃𝙚𝙧𝙚 ⚚', url='https://t.me/+PN59dOdJNNAxYzQ1'),
             InlineKeyboardButton('⚡ MAIN CHANNEL⚡', url='https://telegram.me/TamilRockerz_FZN')
@@ -91,7 +91,7 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://telegram.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://telegram.me/logeshBots')
+            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://telegram.me/TamilRockerz_FZN')
             ],[
             InlineKeyboardButton('⚚ 𝙍𝙚𝙦𝙪𝙚𝙨𝙩 𝙈𝙤𝙫𝙞𝙚𝙨 𝙃𝙚𝙧𝙚 ⚚', url='https://t.me/+PN59dOdJNNAxYzQ1'),
             InlineKeyboardButton('⚡ MAIN CHANNEL⚡', url='https://telegram.me/TamilRockerz_FZN')
